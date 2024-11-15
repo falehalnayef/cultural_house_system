@@ -1,4 +1,4 @@
-# cultural_house_system               # Cultural House System (CHS)
+# cultural_house_system
 
 The **Cultural House System (CHS)** is a backend application designed to manage orders, bookings, and users within an organization that provides entertainment offers. It supports functionalities like creating, updating, and deleting orders, managing bookings, and handling user accounts and Real-time communication through Server-Sent Events.
 
